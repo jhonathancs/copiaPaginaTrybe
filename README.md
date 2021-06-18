@@ -1,0 +1,2 @@
+# copiaPaginaTrybe
+ copia
