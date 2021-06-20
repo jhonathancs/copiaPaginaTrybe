@@ -108,3 +108,35 @@ body {
   .student-container p {
       margin: 10px 0;
   }
+
+  .learning {
+    padding: 30px 70px;
+    background-color: #f5f5f5;
+    min-height: 350px;
+  }
+
+  .learning-left {
+    float: left;
+    max-width: 30%;
+    margin-left: 70px;
+  }
+
+  .learning-right {
+    float: right;
+    margin-right: 70px;
+  }
+
+  .footer {
+    clear: both;
+    text-align: center;
+    padding-top: 60px;
+  }
+
+  .learning h3 {
+    margin: 30px;
+  }
+  
+  .learning li {
+    margin-bottom: 30px;
+    list-style-type: square;
+  }
