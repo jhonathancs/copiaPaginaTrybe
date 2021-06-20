@@ -140,3 +140,19 @@ body {
     margin-bottom: 30px;
     list-style-type: square;
   }
+
+  .chefes {
+    padding: 30px 70px 90px 70px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .co {
+    width: 30%;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: rgba(149, 149, 177, 0.89);
+  }
