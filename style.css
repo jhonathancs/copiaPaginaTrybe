@@ -156,3 +156,11 @@ body {
     vertical-align: middle;
     background-color: rgba(149, 149, 177, 0.89);
   }
+
+  .chefes {
+      max-width: 60%;
+  }
+
+  .chefes p {
+    margin: 10px 0;
+  }
